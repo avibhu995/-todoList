@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.Container{
+    margin: 48px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 300px;
+    background-color: rgb(37, 142, 156);
+}
+.Container h1 {
+ text-align: center;
+}
+input[type = "email"],
+input[type = "pass"],
+button {
+    width: 200px;
+    margin-bottom:10px;
+    border-radius: 7px;
+    border:  1px solid rgb(63, 43, 188);
+    padding: 12px;
+}
